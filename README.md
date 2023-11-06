@@ -47,6 +47,9 @@
 #### Tuned Acc
 ![image1](https://github.com/bgrullon/deep-learning-challenge/assets/45550119/dc7224e4-0e5a-427c-a2dc-3d86b19a1d19)
 
+### Other Methods
+##### If I had to use other models, I would probably use a logistic regression model or a pipeline with different models like RandomForest and XGboost. I have not testing this but I believe I could get as good accuarcy or the same without needing to add in `NAME` by fine tuning a classifier/Esemble model. This would allow for an easier model to maintain and would be more cost effective than using a Neural Network.
+
 
 
 
